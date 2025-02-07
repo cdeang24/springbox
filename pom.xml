@@ -8,7 +8,7 @@
 		<version>3.4.0-M2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.github.numbers24.springbox</groupId>
+	<groupId>com.github.cdeang24.springbox</groupId>
 	<artifactId>springbox</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springbox</name>
