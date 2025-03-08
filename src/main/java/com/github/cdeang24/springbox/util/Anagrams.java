@@ -1,4 +1,4 @@
-package com.github.numbers24.springbox.util;
+package com.github.cdeang24.springbox.util;
 
 import java.io.IOException;
 import java.net.URI;

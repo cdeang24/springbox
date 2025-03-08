@@ -1,4 +1,4 @@
-package com.github.numbers24.springbox.springbox;
+package com.github.cdeang24.springbox.springbox;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;

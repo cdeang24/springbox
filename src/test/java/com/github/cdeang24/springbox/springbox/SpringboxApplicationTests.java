@@ -1,4 +1,4 @@
-package com.github.numbers24.springbox.springbox;
+package com.github.cdeang24.springbox.springbox;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

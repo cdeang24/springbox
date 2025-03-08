@@ -1,4 +1,4 @@
-package com.github.numbers24.springbox.util;
+package com.github.cdeang24.springbox.util;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
@@ -8,6 +8,8 @@ import java.net.URISyntaxException;
 import java.util.List;
 
 import org.junit.jupiter.api.Test;
+
+import com.github.cdeang24.springbox.util.Anagrams;
 
 public class AnagramsTest {
 
